@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {}
+    "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {
+    "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
+        "projectUniqueName": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
         "projectName": "Dsw2025Tpi.Data",
-        "projectPath": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
+        "projectPath": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\obj\\",
+        "outputPath": "c:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,10 +30,11 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
-                "projectPath": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
+              "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
+                "projectPath": "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj"
               }
             }
           }
@@ -48,10 +49,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
@@ -85,18 +87,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
+    "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj",
         "projectName": "Dsw2025Tpi.Domain",
-        "projectPath": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj",
+        "projectPath": "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\OneDrive - frt.utn.edu.ar\\3erA\\Desarrollo de Software\\Chibi\\TPI-Front\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lucia\\Desktop\\prg\\Dsw2025_E-commerce\\Dsw2025Tpi_Back\\Dsw2025Tpi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,6 +117,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -129,10 +132,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -150,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
